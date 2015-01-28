@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dilekmuhammet@gmail.com"]
   spec.description   = %q{Qudea API}
   spec.summary       = %q{Qudea API}
-  spec.homepage      = "https://github.com/muhammetdilek/qudea"
+  spec.homepage      = "https://github.com/qudea/qudea"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
